@@ -1,0 +1,14 @@
+# Build output
+*.exe
+*.pdb
+
+# Local configuration and logs (machine-specific)
+DisplayStretch.ini
+DisplayStretch.log
+
+# Visual Studio / IDE
+.vs/
+bin/
+obj/
+*.user
+*.suo
